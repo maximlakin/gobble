@@ -15,3 +15,5 @@
 # Self Organizing Maps (SOM)
 
 
+# Vision
+- 3d object oclusion / projections
