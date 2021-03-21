@@ -34,3 +34,10 @@
 
 # Common Sense
 - https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/commonsense
+
+# Interpretable ML
+- https://christophm.github.io/interpretable-ml-book/index.html
+
+
+# ML Concept Map
+- https://tomzx.github.io/machine-learning-concept-map/
