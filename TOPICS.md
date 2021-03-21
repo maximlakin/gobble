@@ -19,3 +19,9 @@
 
 # Vision
 - 3d object oclusion / projections
+
+
+# Holographic Mind (
+
+- https://www.youtube.com/channel/UCkj-ob9OuaMhRIDqfvnBxoQ
+- http://www.scholarpedia.org/article/Holonomic_brain_theory
