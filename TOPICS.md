@@ -20,17 +20,15 @@
 # Vision
 - 3d object oclusion / projections
 
+# Graph Neural Networks
+- https://geometric-relational-dl.github.io/
 
-# Holographic Mind :drooling_face:
+# Algebraic/Computational Geometry
+
+- https://www.youtube.com/channel/UCWS9OxziG_38V0S4wfTOC6g
+- https://www.youtube.com/watch?v=_vfCXMSLMAU&list=PLNPbxFpuCy0-6GIUmiHCvj0H0hNxstOie
+
+# Holographic Mind (
 
 - https://www.youtube.com/channel/UCkj-ob9OuaMhRIDqfvnBxoQ
 - http://www.scholarpedia.org/article/Holonomic_brain_theory
-- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.348.5759&rep=rep1&type=pdf
-- http://www.stephenerobbins.com/
-
-
-# Category Theory
-- https://ncatlab.org/nlab/page_categories
-
-# Common Sense
-- https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/commonsense
