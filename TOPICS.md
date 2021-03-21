@@ -21,7 +21,7 @@
 - 3d object oclusion / projections
 
 
-# Holographic Mind (
+# Holographic Mind :drooling_face:
 
 - https://www.youtube.com/channel/UCkj-ob9OuaMhRIDqfvnBxoQ
 - http://www.scholarpedia.org/article/Holonomic_brain_theory
